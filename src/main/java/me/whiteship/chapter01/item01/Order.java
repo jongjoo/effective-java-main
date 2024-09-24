@@ -1,7 +1,5 @@
 package me.whiteship.chapter01.item01;
 
-import java.util.*;
-
 public class Order {
 
     private boolean prime;
@@ -26,6 +24,7 @@ public class Order {
         order.product = product;
         return order;
     }
+
 
     public static void main(String[] args) {
 
